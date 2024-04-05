@@ -9,8 +9,8 @@ let userID = '352ef580-dcf0-465f-9d20-15e8d6e301a5';
 let proxyIP = '';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'
 
 //let sub = '';// 留空则显示原版内容
-let sub = 'notlsdinyueqi.466860727.workers.dev';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
-let subconverter = 'api.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假uuid和host订阅。
+let sub = 'jie-dian-sheng-cheng-2.pages.dev';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
+let subconverter = 'ding-yue-zhuan-huan.ygw645379106.workers.dev';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假uuid和host订阅。
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
